@@ -19,10 +19,12 @@ runtime
 # Get data ----------------------------------------------------------------
 # Accelerometer Biometric Competition Kaggle competition data
 # https://www.kaggle.com/c/accelerometer-biometric-competition/data
-train <- read_csv("~/Downloads/train.csv")
+#train <- read_csv("~/Downloads/train.csv")
+
+I used train25
 
 # YOOGE!
-dim(train)
+dim(train25)
 
 
 
